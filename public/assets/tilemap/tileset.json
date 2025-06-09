@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset version="1.10" tiledversion="1.11.2" name="tileset" tilewidth="18" tileheight="18" tilecount="2496" columns="64">
+ <image source="../../../../../texture2.png" width="1164" height="705"/>
+ <tile id="139">
+  <properties>
+   <property name="esColisionable" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="185">
+  <properties>
+   <property name="esColisionable" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1174">
+  <properties>
+   <property name="esColisionable" type="bool" value="true"/>
+  </properties>
+ </tile>
+</tileset>
